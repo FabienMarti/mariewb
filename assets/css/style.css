@@ -4,3 +4,8 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#myPhoto img{
+    height: 250px;
+    width: auto;
+}
