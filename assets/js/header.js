@@ -2,7 +2,7 @@ var header = '';
 
 header += '<div class="row">';
 //Logo
-header += '<div class="col-lg-2 text-center"><a href="index.html" ><img src="Assets/img/Logo.png" title="Logo" alt="Le logo du site" /></a></div>';
+header += '<div class="col-lg-2 text-center"><a href="index.html" ><img src="assets/img/logo.png" title="Logo" alt="Le logo du site" /></a></div>';
 header += '<div class="col my-auto">';
 header += '<div class="row">';
 //Réseaux Sociaux
